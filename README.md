@@ -1,5 +1,5 @@
 # VampireOBJ
-This is an OBJ file of a vampire. It's ready for animation.
+This is an OBJ file of a vampire. Enjoy and have fun. ;)
 
 
 ![alt text](https://github.com/MarcelloMorettoni/VampireOBJ/blob/master/Demo/vampire_Default_01.jpg)
