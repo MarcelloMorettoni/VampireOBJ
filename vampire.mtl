@@ -1,0 +1,118 @@
+newmtl Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_02.jpg
+    map_Bump vampire_Default_04.jpg
+    map_Ks vampire_Default_03.jpg
+newmtl Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_05.jpg
+    map_D vampire_Default_06.jpg
+    map_Bump vampire_Default_08.jpg
+    map_Ks vampire_Default_07.jpg
+newmtl Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_01.jpg
+    map_D vampire_Default_28.jpg
+    map_Ks vampire_Default_10.jpg
+newmtl Toenail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_11.jpg
+    map_Bump vampire_Default_12.jpg
+    map_Ks vampire_Default_29.jpg
+newmtl Lower___Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_17.jpg
+    map_Bump vampire_Default_36.jpg
+    map_Ks vampire_Default_18.jpg
+newmtl High_polytail
+    Ns 10.000000
+    d 1.000000
+    Ka 0.584314 0.584314 0.584314
+    Kd 0.000000 0.000000 0.000000
+    Ks 0.341176 0.341176 0.341176
+    map_Kd vampire_Default_22.jpg
+    map_D vampire_Default_33.jpg
+    map_Bump vampire_Default_23.jpg
+    map_Ks vampire_Default_31.jpg
+newmtl Upper___Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_14.jpg
+    map_Bump vampire_Default_16.jpg
+    map_Ks vampire_Default_15.jpg
+newmtl Tongue
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_30.jpg
+    map_Bump vampire_Default_27.jpg
+    map_Ks vampire_Default_32.jpg
+newmtl Fingernail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_25.jpg
+    map_Bump vampire_Default_13.jpg
+    map_Ks vampire_Default_09.jpg
+newmtl Scalp_High_polytail
+    Ns 10.000000
+    d 1.000000
+    Ka 0.584314 0.584314 0.584314
+    Kd 0.000000 0.000000 0.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_20.jpg
+    map_D vampire_Default_21.jpg
+    map_Bump vampire_Default_26.jpg
+    map_Ks vampire_Default_24.jpg
+newmtl Dress
+    Ns 10.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 0.000000 0.000000 0.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd vampire_Default_34.jpg
+    map_Bump vampire_Default_39.jpg
+    map_Ks vampire_Default_35.jpg
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_43.jpg
+    map_Bump vampire_Default_41.jpg
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd vampire_Default_46.jpg
+    map_Bump vampire_Default_38.jpg
